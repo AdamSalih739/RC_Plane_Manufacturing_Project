@@ -2,7 +2,7 @@
 
 A fixed-wing RC aircraft designed to carry an 8 oz (237 mL) water bottle and land it as close as possible to the center of a target zone. Built by **Team Blizzard** for TMAD RC3 2026 at Toronto Metropolitan University.
 
-**Design report (PDF):** [Plane_Design_Report.pdf](docs/Preliminary_Design_Report.pdf)
+**Design report (PDF):** [Preliminary_Design_Report.pdf](docs/Preliminary_Design_Report.pdf)
 
 ![General arrangement](images/general_arrangement.png)
 
